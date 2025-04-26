@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+openai
+qdrant-client
+transformers
+peft
+tiktoken
+torch
+accelerate
+pypdf
